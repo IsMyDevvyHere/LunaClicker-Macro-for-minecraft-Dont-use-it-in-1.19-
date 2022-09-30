@@ -1,2 +1,4 @@
-# LunaClicker-Macro-for-minecraft-Dont-use-it-in-1.19-
-A minecraft Macro
+HOW TO RUN THE MACRO
+
+DOUBLE CLICK ON "LunaClicker.exe"
+This file is not a virus
